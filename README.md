@@ -23,3 +23,8 @@
    
    echo "texte" >> nom_de_fichier : crée un fichier nom_de_fichier contenant "texte"
 
+# Commandes pour git
+
+get init : permet de faire du répertoire en cours un repository
+
+
