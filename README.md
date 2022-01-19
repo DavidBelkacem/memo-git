@@ -27,4 +27,12 @@
 
 get init : permet de faire du répertoire en cours un repository
 
+git status : s'il y a des fichiers dans untracked files c'est qu'ils n'ont pas encore été add (c'est à dire qu'ils ne sont pas suivis par git)
+
+get add nomDeFichier : permet de rajouter un fichier dans la liste des fichiers suivis par git
+
+get commit -m "commentaire" pour commit le fichier (ce qui est commit passe dans le repo local)
+
+get push (ce qui est push passe dans le repo distant)
+
 
